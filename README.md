@@ -1,5 +1,5 @@
-# ND Reviews
-Website that allows for students at Notre Dame to look up classes information as well as view and submit ratings for both teachers and courses. 
+# ND Reviews and Specifications
+Website that allows for students at Notre Dame to look up classes information as well as view and submit ratings for both teachers and courses as well as find scholarships to fund your education. Free or demo lectures are made available in order to give exposure of how things are taught. 
 
 Can be found at www.ndreviews.com
 
@@ -8,6 +8,7 @@ Features include:
   2) View professor information
   3) View/add professor reviews
   4) View/add class reviews
+  5) Enabled Education funds/scholarships
 
 
 Features to come:
